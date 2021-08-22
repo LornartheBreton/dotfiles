@@ -1,9 +1,0 @@
-2021/08/16-23:42:11.865 19703 Reusing MANIFEST /home/lornarthebreton/.config/Slack/Local Storage/leveldb/MANIFEST-000001
-2021/08/16-23:42:11.866 19703 Recovering log #3
-2021/08/16-23:42:11.868 19703 Reusing old log /home/lornarthebreton/.config/Slack/Local Storage/leveldb/000003.log 
-2021/08/17-10:16:17.669 1a8c6 Level-0 table #5: started
-2021/08/17-10:16:17.683 1a8c6 Level-0 table #5: 10194 bytes OK
-2021/08/17-10:16:17.692 1a8c6 Delete type=0 #3
-2021/08/17-22:14:45.219 1e345 Level-0 table #7: started
-2021/08/17-22:14:45.231 1e345 Level-0 table #7: 9017 bytes OK
-2021/08/17-22:14:45.235 1e345 Delete type=0 #4
