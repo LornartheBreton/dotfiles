@@ -10,5 +10,7 @@ call plug#begin('~/.vim/plugged')
 Plug 'vim-airline/vim-airline'
 Plug 'iamcco/markdown-preview.nvim', { 'do': 'cd app && yarn install'  }
 Plug 'folke/zen-mode.nvim'
+Plug 'lingnand/pandoc-preview.vim'
 call plug#end()
 let g:mkdp_browser = 'firefox'
+let g:pandoc_preview_pdf_cmd = "zathura"
